@@ -1,2 +1,2 @@
-// Optional: set your Worker URL here. Never put the Gemini key or access code in this file.
-window.BABA_CONFIG = { apiBaseUrl: '' };
+// Public backend URL: no visitor setup is needed. Never put your Gemini key here.
+window.BABA_CONFIG = { apiBaseUrl: 'https://baba-aramdev-api.raghav95nanda.workers.dev' };
